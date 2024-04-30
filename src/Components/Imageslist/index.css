@@ -1,0 +1,8 @@
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+}
+.image-item {
+  height: 100px;
+  width: 100px;
+}
